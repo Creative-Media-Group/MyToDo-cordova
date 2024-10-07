@@ -1,3 +1,3 @@
 function addTask() {
-
-};
+    alert("test");
+}
